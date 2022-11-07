@@ -1,0 +1,32 @@
+{
+    "animals": {
+        "labels": [
+            "Cats 🐱",
+            "Dragons 🐲",
+            "Dogs 🐶",
+            "Rabbits 🐰",
+            "Foxes 🦊"
+        ],
+        "data": [
+            30,
+            60,
+            50,
+            30,
+            80
+        ]
+    },
+    "drinks": {
+        "labels": [
+            "Whiskey 🥃",
+            "Martini 🍸",
+            "Beer 🍺",
+            "Wine🍷"
+        ],
+        "data": [
+            30,
+            60,
+            50,
+            30
+        ]
+    }
+}
